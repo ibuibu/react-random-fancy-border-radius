@@ -1,0 +1,19 @@
+{
+  "name": "react-random-fancy-border-radius",
+  "version": "0.0.1",
+  "description": "",
+  "main": "./dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc"
+  },
+  "author": "ibuibu69",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/react": "^17.0.19",
+    "@types/react-dom": "^17.0.9",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "typescript": "^4.4.2"
+  }
+}
