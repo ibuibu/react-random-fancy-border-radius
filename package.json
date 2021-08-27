@@ -1,6 +1,6 @@
 {
   "name": "react-random-fancy-border-radius",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "description": "",
   "main": "./dist/index.js",
   "scripts": {
@@ -8,8 +8,16 @@
     "build": "tsc",
     "prepublish": "tsc"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ibuibu/react-random-fancy-border-radius.git"
+  },
+  "keywords": [
+    "react",
+    "css"
+  ],
   "author": "ibuibu69",
-  "license": "ISC",
+  "license": "MIT",
   "devDependencies": {
     "@types/react": "^17.0.19",
     "@types/react-dom": "^17.0.9",
